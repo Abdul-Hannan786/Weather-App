@@ -187,9 +187,9 @@ body {
 
 
 
-@media only screen and (max-width:400px) {
+@media only screen and (max-width:420px) {
   .container{
-    width: 310px;
+    width: 330px;
   }
   .weather-details .humidity{
     padding: 0;
