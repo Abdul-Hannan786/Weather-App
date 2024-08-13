@@ -185,16 +185,14 @@ body {
   }
 }
 
-
-
-@media only screen and (max-width:420px) {
-  .container{
+@media only screen and (max-width: 420px) {
+  .container {
     width: 330px;
   }
-  .weather-details .humidity{
+  .weather-details .humidity {
     padding: 0;
   }
-  .weather-details .wind{
+  .weather-details .wind {
     padding: 0;
   }
 }
